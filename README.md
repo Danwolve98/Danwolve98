@@ -30,11 +30,12 @@ There some of my 3D proyects
 *belona_armor_render*
 
 ## *Media* 📱
-[Instagram](https://www.instagram.com/danwolve3d/)
-[ArtStation](https://www.artstation.com/danwolve)
-[Scketchfab](https://sketchfab.com/Danwolve)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/danwolve3d/)
+[![ARSTATION](https://img.shields.io/badge/ARSTATION-003791?style=for-the-badge&logo=ArtStation&logoColor=white&labelColor=black)](https://www.artstation.com/danwolve)
+[![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-1CAAD9?style=for-the-badge&logo=Sketchfab&logoColor=white&labelColor=black)](https://sketchfab.com/Danwolve)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/daniel-francos-090a96218/)
 
 ## *Skills* ⭐
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
