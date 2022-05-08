@@ -4,6 +4,12 @@
 ![mononoke](https://i.pinimg.com/originals/45/b0/9a/45b09afcf4097ac02dc5c3b2a063baa6.gif "Mononoke") 
 </br>
 ![GitHub all releases](https://img.shields.io/github/downloads/Danwolve98/Danwolve98/total?label=GitHub&style=social)
+![GitHub all views](https://img.shields.io/github/watchers/Danwolve98/Danwolve98?style=social)
+![GitHub all followers](https://img.shields.io/github/followers/Danwolve98?style=social)
+</br>
+![GitHub commits year](https://img.shields.io/github/commit-activity/y/Danwolve98/Danwolve98?style=for-the-badge)
+</br>
+![GitHub last commit](https://img.shields.io/github/last-commit/Danwolve98/Danwolve98?style=for-the-badge)
 
 ## About me!
 I introduce myself, my name is *Daniel* and I am a programmer and 3D artist.
@@ -15,10 +21,12 @@ I introduce myself, my name is *Daniel* and I am a programmer and 3D artist.
 ___
 It is a puzzle game, where you will have to try to get the key to each level in a creative way. We could say that it is a kind of escape room
 </br>
+
 ![skell_image](https://play-lh.googleusercontent.com/JffrvoEHx8nJHnYv_i4T1rGwrwKEuE7zfFtp1gxXJjE2uEwl39mVYZeGhuI2EJggTHg=w1880-h939-rw "Skell_image")
 If you are bored and don't know what to do download it and play, the comments help us to improve.
 </br>
-[Skell](https://play.google.com/store/apps/details?id=com.GamePack.Skell&gl=ES "Skell")
+
+[![SKELL](https://img.shields.io/badge/SKELL-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=black)](https://play.google.com/store/apps/details?id=com.GamePack.Skell&gl=ES "Skell")
 
 ## *3D* 🎨
 There some of my 3D proyects
@@ -30,12 +38,25 @@ There some of my 3D proyects
 *belona_armor_render*
 
 ## *Media* 📱
+[![EMAIL](https://img.shields.io/badge/danifrsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]("mailto:danifrsr@gmailcom")
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/danwolve3d/)
 [![ARSTATION](https://img.shields.io/badge/ARSTATION-003791?style=for-the-badge&logo=ArtStation&logoColor=white&labelColor=black)](https://www.artstation.com/danwolve)
 [![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-1CAAD9?style=for-the-badge&logo=Sketchfab&logoColor=white&labelColor=black)](https://sketchfab.com/Danwolve)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/daniel-francos-090a96218/)
 
 ## *Skills* ⭐
-[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)]()
+[![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
 </br>
+[![MAYA](https://img.shields.io/badge/MAYA-49B48A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black)]()
+[![3D MAX](https://img.shields.io/badge/3DMAX-49B48A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black)]()
+[![MUDBOX](https://img.shields.io/badge/MUDBOX-49B48A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black)]()
+[![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=black)]()
+[![PREMIERE](https://img.shields.io/badge/PREMIERE-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=black)]()
+[![AFTER EFFECTS](https://img.shields.io/badge/AFTER-673AB8?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=black)]()
+[![GOOGLE PLAY](https://img.shields.io/badge/GOOGLEPLAY-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=black)]()
+
+## *Mail* 📧
+[![EMAIL](https://img.shields.io/badge/danifrsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]("mailto:danifrsr@gmailcom")
+
+![QR_Code_1652022154](https://user-images.githubusercontent.com/100760981/167302500-66dd266a-3313-44bb-a589-00639893b981.png)
