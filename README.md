@@ -38,7 +38,6 @@ There some of my 3D proyects
 *belona_armor_render*
 
 ## *Media* 📱
-[![EMAIL](https://img.shields.io/badge/danifrsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]("mailto:danifrsr@gmailcom")
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/danwolve3d/)
 [![ARSTATION](https://img.shields.io/badge/ARSTATION-003791?style=for-the-badge&logo=ArtStation&logoColor=white&labelColor=black)](https://www.artstation.com/danwolve)
 [![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-1CAAD9?style=for-the-badge&logo=Sketchfab&logoColor=white&labelColor=black)](https://sketchfab.com/Danwolve)
