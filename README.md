@@ -12,7 +12,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Danwolve98/Danwolve98?style=for-the-badge)
 
 ## About me!
-I introduce myself, my name is *Daniel* and I am a programmer and 3D artist.
+I <span style = "color:red">introduce myself</span>, my name is *Daniel* and I am a programmer and 3D artist.
 </br>
 
 ## *Skell* :skull:
@@ -59,4 +59,4 @@ There some of my 3D proyects
 ## *Mail* 📧
 [![EMAIL](https://img.shields.io/badge/danifrsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]("mailto:danifrsr@gmailcom")
 
-![QR_Code_1652022154](https://user-images.githubusercontent.com/100760981/167302500-66dd266a-3313-44bb-a589-00639893b981.png)
+<img src="https://user-images.githubusercontent.com/100760981/167302500-66dd266a-3313-44bb-a589-00639893b981.png" width="150" height="150"/>
