@@ -46,6 +46,9 @@ There some of my 3D proyects
 ## *Skills* ⭐
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)]()
 [![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
+[![ANDROID](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=black)]()
+[![ECLIPSE](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=black)]()
+[![VISUALSTUDIOCODE](https://img.shields.io/badge/STUDIOCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)]()
 </br>
 [![MAYA](https://img.shields.io/badge/MAYA-49B48A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black)]()
 [![3D MAX](https://img.shields.io/badge/3DMAX-49B48A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black)]()
