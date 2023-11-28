@@ -36,6 +36,8 @@ There some of my 3D proyects
 *pokemon_enviro_render*
 ![tbrender_002](https://user-images.githubusercontent.com/100760981/167016216-2eefd1b0-b7e4-4336-ba6d-c2bc2beaf965.png "Belona_armor") 
 *belona_armor_render*
+![YU_GI_OH](https://cdna.artstation.com/p/assets/images/images/051/340/594/large/daniel-francos-tbrender-005.jpg?1657048357)
+*yu-gi-oh enviro*
 
 ## *Media* 📱
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/danwolve3d/)
